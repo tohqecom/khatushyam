@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+12:35:16	243/243	---M--	301	error ('Moved%20Permanently')	text/html	date:Sat,%2027%20Jul%202019%2005:35:17%20GMT	http://khatushyam.in/robots.txt		(from )
+12:35:16	233/233	---M--	301	error ('Moved%20Permanently')	text/html	date:Sat,%2027%20Jul%202019%2005:35:17%20GMT	http://khatushyam.in/	D:/xampp/htdocs/khatushyam/khatushyam.in/index.html	(from )

@@ -1,0 +1,80 @@
+* {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+body {
+    background-color: #192E57;
+    color: #EFEFEF;
+}
+
+.navbar-header {
+    background-color: #030E26;
+}
+
+.navbar-collapse {
+    background-color: #030E26;
+}
+
+.navbar {
+    background-color: #030E26;
+}
+
+h1 {
+    color: white;
+}
+
+h1 small {
+    color: #EFEFEF;
+}
+
+a {
+    color: #EFEFEF;
+}
+
+p {
+    color: #EFEFEF;
+}
+
+.pager li>a, .pager li>span {
+    background-color: #010A1C;
+    border-color: #192E57;
+}
+
+.pager li>a {
+    color: white;
+}
+
+.pager li>a:hover, .pager li>span:hover {
+    background-color: #697691;
+    color: #010A1C;
+}
+
+.btn {
+    background-color: #697691;
+}
+
+.btn:hover {
+    background-color: #EFEFEF;
+    color: #010A1C;
+}
+
+.btn-primary {
+    font-size: 17px;
+}
+
+.well {
+    background-color: #010A1C;
+    border-color: #697691;
+}
+
+h4 {
+    color: #EFEFEF;
+}
+
+a.navbar-inverse , a.navbar-brand a {
+    color: #EFEFEF;
+}
+
+.media-body, .media-left, .media-right {
+    color: #EFEFEF;
+}

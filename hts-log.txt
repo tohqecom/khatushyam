@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 27 Jul 2019 12:35:15 at http://khatushyam.in +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://khatushyam.in -O1 "D:\xampp\htdocs\khatushyam" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:35:16	Warning: 	Moved Permanently for khatushyam.in/robots.txt
+12:35:16	Warning: 	Redirected link is identical because of 'URL Hack' option: khatushyam.in/robots.txt and www.khatushyam.in/robots.txt
+12:35:16	Warning: 	Warning moved treated for khatushyam.in/robots.txt (real one is www.khatushyam.in/robots.txt)
+12:35:16	Warning: 	Moved Permanently for khatushyam.in/
+12:35:16	Warning: 	Redirected link is identical because of 'URL Hack' option: khatushyam.in/ and www.khatushyam.in/
+12:35:16	Warning: 	File has moved from khatushyam.in/ to http://www.khatushyam.in/
+12:35:16	Warning: 	No data seems to have been transferred during this session! : restoring previous one!
