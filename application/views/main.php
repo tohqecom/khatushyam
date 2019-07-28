@@ -1,26 +1,16 @@
-<?php
-defined('BASEPATH') OR exit('No direct script access allowed');
-?>
-<!DOCTYPE html>
-<html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <!-- Header Content -->
 <?php $this->load->view('header'); ?>
-<body>
-	<!-- Navigation -->
-	<?php $this->load->view('nav'); ?>
+ 	<body class="none">
+ 		<!-- Navigation -->
+		<?php $this->load->view('nav'); ?>
 
-    <!-- Page Content -->
-    <div class="container">
-    	<?php $this->load->view($content); ?>
-    </div>
-    <!-- /.container -->
+		<!-- Page Content -->
+		<?php $this->load->view($content); ?>
 
-	<!-- Footer -->
-	<?php $this->load->view('footer'); ?>
-
-    <!-- jQuery -->
-    <script src="js/jquery.js"></script>
-    <!-- Bootstrap Core JavaScript -->
-    <script src="js/bootstrap.min.js"></script>
-</body>
+		<!-- Footer -->
+		<?php $this->load->view('footer'); ?>
+	</body>
 </html>
