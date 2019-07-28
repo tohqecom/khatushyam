@@ -11,4 +11,9 @@ class Home extends CI_Controller {
 		$data = ['content' => 'content'];
         $this->load->view('main', $data);
 	}
+
+	public function fullStoryOfKhatushyamji(){
+		$data = ['content' => 'shyamji-story'];
+        $this->load->view('main', $data);
+	}
 }

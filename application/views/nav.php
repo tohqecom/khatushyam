@@ -175,10 +175,5 @@
     <div id="design-part-4"></div>
    
   </div>
-  
-  <div style="width:700px;">
-      <marquee onMouseOver="this.setAttribute('scrollamount', 0, 0);" onMouseOut="this.setAttribute('scrollamount', 6, 0);"><img src="images/flashnew.gif" /><a  href="http://www.khatushyam.in/2019-15-may-darshan.php " class="st">15 May Mohini Ekadashi Shyam Darshan  </a><img src="images/flashnew.gif" /><a  href="http://www.khatushyam.in/2019-mela-analysic.php " class="st">खाटू श्याम जी का खजाना लुटते है रंगभरी होली के दिन भक्त </a><img src="images/flashnew.gif" /><a  href="http://www.khatushyam.in/2019-18-march-darshan.php " class="st">18 March Falgun Shukal Dwadashi Shyam Darshan 2019 </a><img src="images/flashnew.gif" /><a  href="http://www.khatushyam.in/nepal-se-khatu-yatra.php " class="st">नेपाल से खाटू निशान यात्रा साइकिल से    </a><img src="images/flashnew.gif" /><a  href="http://www.khatushyam.in/2019-16-march-darshan.php " class="st">16 March Shyam Darshan   </a><img src="images/flashnew.gif" /><a  href="http://www.khatushyam.in/2019-falgun-mela-mandir-decoration.php " class="st">  Khatu Temple Falgun Mela 2019 Decoration </a><img src="images/flashnew.gif" /><a  href="http://www.khatushyam.in/2019-sanjay-mittal-reached-khatu.php " class="st">  संजय मित्तल पदयात्रा पहुंची खाटू , हुआ भव्य स्वागत  </a><img src="images/flashnew.gif" /><a  href="http://www.khatushyam.in/online-mela-2019.php " class="st">  Live Falgun Mela 2019 Khatu Shyam ji </a>
-        </marquee>
-        
-         <br />
-<br />        </div>
+
+  <?php //$this->load->view('marquee'); ?>

@@ -1,70 +1,26 @@
   <div id="middle-content">
-      <div id="left-bar">
-        <div id="left-bar-link-top-img"></div>
-        <div id="left-bar-link-mid-img">
-          <div id="menu">
-            <ul>
-                <li><a href="http://www.khatushyam.in/2019-falgun-mela-news.php" >2019 Mela </a></li>
-                  <li><a href="http://www.khatushyam.in/full-story-of-khatushyamji-1.php" >Abt-Shyamji </a></li>
-                   <li><a href="http://www.khatushyam.in/khatu-shyamji-faq.php" >FAQ</a></li>
-              <li><a href="http://www.khatushyam.in/khatu-shyamji-worship.php" >Worship</a></li>
-            </ul>
-          </div>
-        </div>
-        <div id="left-bar-link-bot-img"></div>
-        <div id="left-bar-link2-top-img"></div>
-        <div id="left-bar-link2-mid-img">
-          <div id="menu">
-            <ul>
-            <li>  <b><font color="#CCFF00">Websites</font> </b></li>
-             <li><a rel="nofollow" href="http://www.shivji.in" target="_blank"  >Lord Shiva   </a></li>
-              <li><a rel="nofollow" href="http://www.jaidevimaa.com" target="_blank"  > Maa Durga  </a></li>
-              <li><a rel="nofollow" href="http://www.saibabashirditemple.in"  target="_blank" > Sai Baba </a></li>
-              <li><a rel="nofollow" href="http://www.ramhanuman.in"  target="_blank" >Hanuman ji</a></li>
-               <li><a rel="nofollow" href="http://www.dadisati.in" rel="nofollow"   >Rani Sati  </a></li>
-            </ul>
-          </div>
-        </div>
-        <div id="left-bar-link2-bot-img"></div>
-         <div ></div>
-               <div style="margin-left:25px; margin-top:7px;">
-        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-  <!-- khatu_left-short -->
-  <ins class="adsbygoogle"
-       style="display:block"
-       data-ad-client="ca-pub-9702945368936649"
-       data-ad-slot="8731528742"
-       data-ad-format="auto"></ins>
-  <script>
-  (adsbygoogle = window.adsbygoogle || []).push({});
-  </script>
-  </div>
-          <br />
-  <br /> <br />
-  <br />
-      </div>
-          <div id="right-bar-heading">
+      <?php //$this->load->view('left-bar'); ?>
+      <div id="right-bar-heading">
         <div id="right-bar-heading-part-1">
-        <img src="images/page-heading/khatushyamji.gif" alt="khatushyamji.gif" title="khatushyamji.gif">
-       </div>
+          <img src="images/page-heading/khatushyamji.gif" alt="khatushyamji.gif" title="khatushyamji.gif">
+        </div>
         <div id="right-bar-heading-part2"></div>
       </div>
-      <div style="text-align:center; padding-left:100px;" align="center"; >
-      </div>
-      <div style="margin-left:60px; padding-left:100px;" >
+      
+      <div style="padding-right:100px; padding-left:100px;" >
       <div style="background-image:url(images/dhanush-khatushyam.jpg); background-repeat:no-repeat; background-position:center; "  >
       </div>
-      <div style="margin:20px;padding:30px;color:#060; font-family:'Trebuchet MS', Arial, Helvetica, sans-serif;" >
+      <div style="color:#060; font-family:'Trebuchet MS', Arial, Helvetica, sans-serif;" >
           <table width="" cellpadding="2" cellspacing="2">
           <tr>
-            <td width="440px;" style=" height:250px;">
+            <td>
               <div style="">
             		<h1 style="display:inline;"><a href="http://www.khatushyam.in/" > Khatu Shyam ji </a> </h1> is a Famous God of current time (Kaliyuga). Many years ago Lord Krishna  gave him the boon to be worshiped at current time when Veer Barbareek sacrificed his head in the way of religion.Lord Krishna </a> delighted with Barbareek's great sacrifice (Sheesh Daan), granted him the boon that when Kaliyug (Present times evil times) come downs, he would be worshiped by the name of Shyam in his form. he is also called Sheesh Ke Daani (Donor of head) in his Devotees. He fulfills all wishes of his pilgrims whose have true heart . Shyam baba is also known Haare ka Sahara (Helper of Losers) This khatushyam.in website is based on ScandPuran written by Maharshi VedVyas. In this epic Mother and fater is mentioned as Maa Morvi and Ghatochkach . Pandav Bheem is considered Grand Father of Veer Barbreeka. 
                 <br />
                 <a href="http://www.khatushyam.in/hindi/" class="st" > खाटू श्याम जी हिंदी वेबसाइट   </a><br />
               </div>
             </td>
-            <td width="300px;" style="height:250px; margin-right:30px;"  >        
+            <td>        
             </td>
              </tr>
             </table>
@@ -112,24 +68,24 @@
        data-ad-slot="6688977544"></ins>
   </div>
   <div id="middlehomebox" style="margin-left:10px;">
-  	<div id="left">
-      	<div id="title" style="color:#900;"> <b>KhatuShyam.in Site Latest Update</b>  </div>
-          <div id="titlebody">
-  <div id="ticker">
-  <ul id="news">
-  <li><a href="http://www.khatushyam.in/2019-falgun-mela-news.php" class="st" >  Falgun mela 2019 News Information   </a> </li>
-  <li><a href="http://www.khatushyam.in/online-mela-2019.php" class="st" > Online Live  Broadcasting of Falgun Mela 2019    </a> </li>
-  </ul>
-  </div>
-  <div >
-  <h3>Shri Shyam baba  Temple Khatu Town Sikar Rajasthan  </h3>
-  <p>Shri khatu shyam ji's  very famous temple  in sikar district . More than 40 lakh  bhagkts come to take the sight and getting blessings of him from all over the world throughout a year. It is considered that first temple is made by king  Roopsingh Chauhan  ruler of Khatu and  his wife Narmada Kanwar. King  Roopsingh Chauhan got a dream where he was asked to built his temple after digging shyam sheesh from one of kund at khatu .  </p>
-  know more <a href="http://www.khatushyam.in/khatushyamji-temple-history.php" >Shri khatu temple </a><br /><br />
-  <br />
-  <br />
-  </div>
-  </div>
-  <br>
+	<div id="left">
+  	<div id="title" style="color:#900;"> <b>KhatuShyam.in Site Latest Update</b>  </div>
+    <div id="titlebody">
+        <div id="ticker">
+          <ul id="news">
+            <li><a href="http://www.khatushyam.in/2019-falgun-mela-news.php" class="st" >  Falgun mela 2019 News Information   </a> </li>
+            <li><a href="http://www.khatushyam.in/online-mela-2019.php" class="st" > Online Live  Broadcasting of Falgun Mela 2019    </a> </li>
+          </ul>
+        </div>
+        <div >
+          <h3>Shri Shyam baba  Temple Khatu Town Sikar Rajasthan  </h3>
+          <p>Shri khatu shyam ji's  very famous temple  in sikar district . More than 40 lakh  bhagkts come to take the sight and getting blessings of him from all over the world throughout a year. It is considered that first temple is made by king  Roopsingh Chauhan  ruler of Khatu and  his wife Narmada Kanwar. King  Roopsingh Chauhan got a dream where he was asked to built his temple after digging shyam sheesh from one of kund at khatu .  </p>
+          know more <a href="http://www.khatushyam.in/khatushyamji-temple-history.php" >Shri khatu temple </a><br /><br />
+          <br />
+          <br />
+        </div>
+    </div>
+    <br>
   </div>
       </div>
       <div id="right">

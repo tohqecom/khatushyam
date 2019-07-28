@@ -641,26 +641,21 @@ td.tbpad{
 }
 
 #right-bar-heading
-
 {
 	width:auto;
 	height:60px;
-
 }
 
-
 #right-bar-heading-part-1
-
 {
 	float:left;
-	width:731px;
+	width:923px;
 	height:60px;
 	background-color:#e1eaba;
-	
+    margin-left: 25px;
 }
 
 #right-bar-heading-part2
-
 {
 	float:left;
 	width:52px;
@@ -670,7 +665,6 @@ td.tbpad{
 }
 
 #right-bar-heading-part3
-
 {
 	float:left;
 	width:52px;
@@ -679,7 +673,6 @@ td.tbpad{
 	background-repeat:no-repeat;
 }
 #footer
-
 {
 	width:1000px;
 	height:220px;
@@ -688,7 +681,6 @@ td.tbpad{
 }
 
 #footer2
-
 {
 	width:1000px;
 	height:auto;
