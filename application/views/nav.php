@@ -19,13 +19,7 @@
       <div class=jqueryslidemenu id=myslidemenu style="padding-top:8px;">
         <ul>
         
-          <li style=" width:65px;"><a href="http://www.khatushyam.in/">Home</a>
-          <ul>
-           <li><a href="http://www.khatushyam.in/hindi/">Khatu Shyam ji Hindi </a>
-          <li><a href="http://krishna.khatushyam.in">Krishna Website</a>
-          
-          </ul>
-           </li>
+          <li style=" width:65px;"><a href="http://www.khatushyam.in/">Home</a></li>
           <li style=" width:70px;"><a href="http://www.khatushyam.in/about-khatu-shyamji.php" >Shyam ji</a>
             <ul>
               <li><a href="http://www.khatushyam.in/full-story-of-khatushyamji-1.php" >Shyamji Story</a>
