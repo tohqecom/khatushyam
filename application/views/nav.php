@@ -16,97 +16,80 @@
     <div id="header-part-top-link-left-corner">
     </div>
     <div id="header-part-top-link-middle">
-      <DIV class=jqueryslidemenu id=myslidemenu style="padding-top:8px;">
-        <UL>
+      <div class=jqueryslidemenu id=myslidemenu style="padding-top:8px;">
+        <ul>
         
-          <LI style=" width:65px;"><A href="http://www.khatushyam.in/">Home</A>
+          <li style=" width:65px;"><a href="http://www.khatushyam.in/">Home</a>
           <ul>
-           <LI><A href="http://www.khatushyam.in/hindi/">Khatu Shyam ji Hindi </A>
-          <LI><A href="http://krishna.khatushyam.in">Krishna Website</A>
+           <li><a href="http://www.khatushyam.in/hindi/">Khatu Shyam ji Hindi </a>
+          <li><a href="http://krishna.khatushyam.in">Krishna Website</a>
           
           </ul>
-           </LI>
-          <LI style=" width:70px;"><A href="http://www.khatushyam.in/about-khatu-shyamji.php" >Shyam ji</A>
-            <UL>
-              <LI><A href="http://www.khatushyam.in/full-story-of-khatushyamji-1.php" >Shyamji Story</A>
-              <LI><A href="http://www.khatushyam.in/festivals-of-khatu-shyamji.php"> Festivals </A>
-              <LI><A 
-    href="http://www.khatushyam.in/khatu-shyamji-othernames.php">Shyam ji'names 
-                    </A>
-                    <LI><A href="http://www.khatushyam.in/shyamji-gallery.php ">Shyam Baba Gallery</A>
-              <LI><A href="http://www.khatushyam.in/khatu-shyamji-temple-lists.php ">Shyam ji other's temple</A> </LI>
-            </UL>
-          </LI>
-          <LI style="width:70px;"><a href="http://www.khatushyam.in/about-khatu-shyamji-temple.php" > Temple </A>
-            <UL>
-             <LI><a href="http://www.khatushyam.in/falgun-mela.php" > Khatu Falgun Mela  <img src="images/flashnew.gif" /></A> </LI>
-              <LI><A href="http://www.khatushyam.in/khatushyamji-temple-history.php" >Temple Histroy</A>
-              <LI><A href="http://www.khatushyam.in/khatu-shyamji-temple-timing.php" >Temple Timing</A>
-              <LI><a href="http://www.khatushyam.in/location-of-khatu-shyamji.php"  >Location</A>
-                    
-              <LI><a href="http://www.khatushyam.in/khatu-shyamji-map.php"  >Google Map</A>
-              <LI><a href="http://www.khatushyam.in/around-khatu-shyamji-temple.php"  >Around Temple </A> </LI>
-              <LI><a href="http://www.khatushyam.in/khatu-shyamji-accomodation.php"  >Accomodation </A> </LI>
-             
-            </UL>
-          </LI>
-          <LI><a href="http://www.khatushyam.in/khatu-shyamji-worship.php" >Worship </A>
-            <UL>
-            <LI><A href="http://www.khatushyam.in/khatu-shyamji-worship.php">Method Of Worship</A>
-              <LI><a href="http://www.khatushyam.in/khatu-shyamji-aarti.php"  >Aarti & Bhajans</A>
-            <LI><a href="http://www.khatushyam.in/shyam-chalisha.php" >Shyam Chalisha</A>
-             <LI><a href="http://www.khatushyam.in/shyam-astak.php" >Shyam Astak</A>
-              <LI><a href="http://www.khatushyam.in/shyam-strot.php"  >Shyam Stroat </A>
-               <LI><a href="http://www.khatushyam.in/shyam-samarpan.php"  >Shyam Samarpan</A>
-                <LI><a href="http://www.khatushyam.in/shyam-mahima.php"  >Shyam Mahima</A>
-            
-              <LI><a href="http://www.khatushyam.in/shyam-slok.php"  >Shyam Shyariya </A>
-              <li><a href="http://www.khatushyam.in/shyam-bhajan1.php"  >Shyam Bhajans </A>
-               <LI><a href="http://www.khatushyam.in/khatu-shyamji-online-puja.php" >Online Pooja </A> </LI>
-              
-            </UL>
-          </LI>
+           </li>
+          <li style=" width:70px;"><a href="http://www.khatushyam.in/about-khatu-shyamji.php" >Shyam ji</a>
+            <ul>
+              <li><a href="http://www.khatushyam.in/full-story-of-khatushyamji-1.php" >Shyamji Story</a>
+              <li><a href="http://www.khatushyam.in/festivals-of-khatu-shyamji.php"> Festivals </a>
+              <li><a href="http://www.khatushyam.in/khatu-shyamji-othernames.php">Shyam ji'names </a>
+              <li><a href="http://www.khatushyam.in/shyamji-gallery.php ">Shyam Baba Gallery</a>
+              <li><a href="http://www.khatushyam.in/khatu-shyamji-temple-lists.php ">Shyam ji other's temple</a> </li>
+            </ul>
+          </li>
+          <li style="width:70px;"><a href="http://www.khatushyam.in/about-khatu-shyamji-temple.php" > Temple </a>
+            <ul>
+             <li><a href="http://www.khatushyam.in/falgun-mela.php" > Khatu Falgun Mela  <img src="images/flashnew.gif" /></a> </li>
+              <li><a href="http://www.khatushyam.in/khatushyamji-temple-history.php" >Temple Histroy</a>
+              <li><a href="http://www.khatushyam.in/khatu-shyamji-temple-timing.php" >Temple Timing</a>
+              <li><a href="http://www.khatushyam.in/location-of-khatu-shyamji.php"  >Location</a>
+              <li><a href="http://www.khatushyam.in/khatu-shyamji-map.php"  >Google Map</a>
+              <li><a href="http://www.khatushyam.in/around-khatu-shyamji-temple.php"  >Around Temple </a> </li>
+              <li><a href="http://www.khatushyam.in/khatu-shyamji-accomodation.php"  >Accomodation </a> </li>
+            </ul>
+          </li>
+            <li><a href="http://www.khatushyam.in/khatu-shyamji-worship.php" >Worship </a>
+              <ul>
+                <li><a href="http://www.khatushyam.in/khatu-shyamji-worship.php">Method Of Worship</a>
+                <li><a href="http://www.khatushyam.in/khatu-shyamji-aarti.php"  >Aarti & Bhajans</a>
+                <li><a href="http://www.khatushyam.in/shyam-chalisha.php" >Shyam Chalisha</a>
+                <li><a href="http://www.khatushyam.in/shyam-astak.php" >Shyam Astak</a>
+                <li><a href="http://www.khatushyam.in/shyam-strot.php"  >Shyam Stroat </a>
+                <li><a href="http://www.khatushyam.in/shyam-samarpan.php"  >Shyam Samarpan</a>
+                <li><a href="http://www.khatushyam.in/shyam-mahima.php"  >Shyam Mahima</a>
+                <li><a href="http://www.khatushyam.in/shyam-slok.php"  >Shyam Shyariya </a>
+                <li><a href="http://www.khatushyam.in/shyam-bhajan1.php"  >Shyam Bhajans </a></li>
+              </ul>
+          </li>
           
-          <LI style="width:68px;"><a href="http://www.khatushyam.in/khatu-shyamji-downloads.php"  >Media </A>
-            <UL>
-            <LI><a href="http://www.khatushyam.in/khatu-shyamji-audio-story.php"  >Shyam katha Audio </a>
-              <LI><a href="http://www.khatushyam.in/khatu-shyamji-wallpapers.php"  >Wallpapers</a>
-              <LI><a href="http://www.khatushyam.in/khatu-shyamji-bhajans.php"  >Bhajans</A>
-              <LI><a href="http://www.khatushyam.in/khatu-shyamji-video-watch-downloads.php"  >Video</A>
-              <LI><a href="http://www.khatushyam.in/khatu-shyamji-ringtones-download.php"  >Ringtones </A> </LI>
-              
-              <LI><a href="http://www.khatushyam.in/khatu-shyamji-screensaver-download.php" >Screen savers </A> </LI>
-            </UL>
-          </LI>
-          
-          
-          <LI style=" width:70px;"><a href="javascript:void(0)" >Others </A>
-            <UL>
-              <LI><A href="http://www.khatushyam.in/khatushyamji-news.php" >News & Events</A>
-              <LI><A href="http://www.khatushyam.in/khatu-shyamji-sitemap.php" >Sitemap</A>
-              <LI><A href="http://www.khatushyam.in/khatu-shyamji-faq.php" >FAQ</A>
-              <LI><A href="http://www.khatushyam.in/about-khatushyamji-website.php" >About us</A>
-              <LI><A href="http://www.khatushyam.in/contact-to-khatushyamji.php">Contact us </A> </LI>
-              <LI><A href="http://www.khatushyam.in/feedback-to-khatushyamji.php" >Feedback </A> </LI>
-              
-            </UL>
-          </LI> 
-          <LI style=" width:70px;"><a href="javascript:void(0)" >Feature </A>
-            <UL>
-           
-               <LI><a href="http://www.khatushyam.in/Ekadasmi.php" >Ekadashmi Dates</A>
-                <LI><a href="http://www.khatushyam.in/shyam-archieve.php" >Archieve </A> </LI>
-                 <LI><A href="http://www.khatushyam.in/donation-khatu-shyamji-website.php" >Donation to us</A> </LI>
-              <LI><a href="http://www.khatushyam.in/khatu-shyamji-guestbook.php"  >Guest List</A>
-            
-               
-              <LI><a href="http://www.khatushyam.in/khatu-shyamji-request.php" > Aaj Ki Ardas </A> </LI>
-            </UL>
-          </LI> 
-        </UL>
-      </DIV>
-
-     
+          <li style="width:68px;"><a href="http://www.khatushyam.in/khatu-shyamji-downloads.php"  >Media </a>
+            <ul>
+            <li><a href="http://www.khatushyam.in/khatu-shyamji-audio-story.php"  >Shyam katha Audio </a>
+              <li><a href="http://www.khatushyam.in/khatu-shyamji-wallpapers.php"  >Wallpapers</a>
+              <li><a href="http://www.khatushyam.in/khatu-shyamji-bhajans.php"  >Bhajans</a>
+              <li><a href="http://www.khatushyam.in/khatu-shyamji-video-watch-downloads.php"  >Video</a>
+              <li><a href="http://www.khatushyam.in/khatu-shyamji-ringtones-download.php"  >Ringtones </a> </li>
+              <li><a href="http://www.khatushyam.in/khatu-shyamji-screensaver-download.php" >Screen savers </a> </li>
+            </ul>
+          </li>
+          <li style=" width:70px;"><a href="javascript:void(0)" >Others </a>
+            <ul>
+              <li><a href="http://www.khatushyam.in/khatu-shyamji-sitemap.php" >Sitemap</a>
+              <li><a href="http://www.khatushyam.in/khatu-shyamji-faq.php" >FAQ</a>
+              <li><a href="http://www.khatushyam.in/about-khatushyamji-website.php" >About us</a>
+              <li><a href="http://www.khatushyam.in/contact-to-khatushyamji.php">Contact us </a> </li>
+              <li><a href="http://www.khatushyam.in/feedback-to-khatushyamji.php" >Feedback </a> </li>
+            </ul>
+          </li> 
+          <li style=" width:70px;"><a href="javascript:void(0)" >Feature </a>
+            <ul>
+              <li><a href="http://www.khatushyam.in/Ekadasmi.php" >Ekadashmi Dates</a>
+              <li><a href="http://www.khatushyam.in/shyam-archieve.php" >Archieve </a> </li>
+              <li><a href="http://www.khatushyam.in/donation-khatu-shyamji-website.php" >Donation to us</a> </li>
+              <li><a href="http://www.khatushyam.in/khatu-shyamji-guestbook.php"  >Guest List</a>
+              <li><a href="http://www.khatushyam.in/khatu-shyamji-request.php" > Aaj Ki Ardas </a> </li>
+            </ul>
+          </li> 
+        </ul>
+      </div>
   </div>
     <div id="header-part-top-link-right"></div>
     <div id="header-part-top-right-corner"></div>
@@ -179,24 +162,13 @@
         <table width="90%" align="left"  >
         
         
-       <tr >
-       
-          
-            
-                        <form name="login" method="post" action="login-bg.php" onsubmit=" return validLogin();">
-           
-            <td><input type="text" name="email" tabindex="1" id="email" value="Login email id"  onfocus="if (this.value == 'Login email id') this.value = 
-'';" onblur="if (this.value == '') this.value = 'Login email id';"  size="25" style="height:14px; font-size:12px;" class="stxtbox fadebox" /></td>
-            <td rowspan="2"><input type="submit"   class="formloginbutton" tabindex="3" name="submit1" id="submit1" value="Login" /> </td>
-          
-        </tr> </tr>
+       <tr >           
+            <td></td>
+            <td rowspan="2"></td>
+        </tr>
         <tr>
-        <td><input type="password" size="25" name="password" tabindex="2" onfocus="if (this.value == 'Password') this.value = 
-'';" onblur="if (this.value == '') this.value = 'Password';"   value="Password" style="height:14px; font-size:12px;" id="password" class="stxtbox fadebox" /></td>
-        
-        
-            </form>
-                    </tr>
+          <td></td>
+        </tr>
           </table>
         </td>
         </tr>
@@ -216,12 +188,3 @@
         
          <br />
 <br />        </div>
-  
-  
-<script type="text/javascript" src="js/timer/jquery.newsticker.pack.js"></script>
-
-<script type="text/javascript">
-    $(document).ready(function() {
-      $("#news").newsticker();
-    });
-   </script>
